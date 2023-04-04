@@ -1,4 +1,4 @@
-name: Random Cron
+name: Random Cron2
 on:
   workflow_run:
     workflows: ["刷步数2"]
